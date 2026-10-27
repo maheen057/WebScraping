@@ -1,0 +1,40 @@
+
+=========================================================
+ WEB SCRAPING PROJECT - DATA ANALYSIS SUMMARY
+ Source: books.toscrape.com (public scraping sandbox)
+=========================================================
+
+1. DATASET OVERVIEW
+   Total records collected : 937
+   Unique book titles      : 937
+   Categories              : 50
+   Books marked in stock   : 100.0%
+
+2. PRICE STATISTICS
+   Average price  : £35.14
+   Median price   : £36.25
+   Minimum price  : £10.0
+   Maximum price  : £59.99
+   Std deviation  : £14.49
+
+3. RATING FREQUENCY DISTRIBUTION
+  1 star(s): 209 books
+  2 star(s): 181 books
+  3 star(s): 192 books
+  4 star(s): 174 books
+  5 star(s): 181 books
+
+4. CATEGORY-WISE ANALYSIS (top 5 categories by book count)
+      category  books  avg_price  min_price  max_price  avg_rating
+    Nonfiction    100      33.72      11.68      59.90        2.87
+       Default    100      35.11      10.23      58.87        2.91
+Sequential Art     75      34.57      10.16      57.62        2.97
+ Add a comment     67      35.80      10.02      59.15        2.76
+       Fiction     65      36.07      10.60      59.98        3.18
+
+5. NOTABLE FINDINGS
+   Largest category    : Nonfiction (100 books)
+   Most expensive book : "The Perfect Play (Play by Play #1)" at £59.99
+   Cheapest book       : "An Abundance of Katherines" at £10.0
+
+=========================================================
